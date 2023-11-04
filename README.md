@@ -19,17 +19,17 @@ Here are some ideas to get you started:
 ## Welcome to my profile, 
 # I'm Abdrahman Oladimeji
 
-I'm a Software Engineering Student, Frontend developer and a Computer Science Student. 
+I'm a frontend engineer, speaker, and community manager. 
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
 - 💡 Interesting facts about me: 
-- 💡:  Education: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022. 
+- 💡:  Education: I graduated as a Frontend Engineer at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022. 
 - 💡:    Currently studying Computer Science at Ladoke Akintola University Of Technology, Ogbomoso.
-- 🌱 I’m currently learning, Reactjs, NextJS and few others.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
+- 🌱 My most used stacks are: Reactjs, NextJS, Tailwind CSS and a few others.
+- 😊 I’m seeking help with open-source projects, hackathons, and job opportunities.
+- 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer.
 - 📫 You can [view my resume](https://abdrahman-oladimeji.web.app) and contact me by emailing abdrahmanoladimeji02@gmail.com.
 
 ---
