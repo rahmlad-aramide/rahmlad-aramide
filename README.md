@@ -1,5 +1,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-rahmlad-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahmlad)](https://www.linkedin.com/in/rahmlad) [![X Badge](https://img.shields.io/badge/-@Dev_Rahmlad-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Dev_Rahmlad)](https://twitter.com/Dev_Rahmlad) [![Google Chrome](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white&link=https://abdrahman-oladimeji.web.app)](https://abdrahman-oladimeji.web.app) 
-[![An image of @rahmladaramide's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahmladaramide)](https://holopin.io/@rahmladaramide)
+[![An image of @rahmladaramide's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahmladaramide)](https://holopin.io/@rahmladaramide) [![wakatime](https://wakatime.com/badge/user/c927a5af-2457-46af-992b-9073dae38a72.svg)](https://wakatime.com/@c927a5af-2457-46af-992b-9073dae38a72)
 ### Hi there 👋
 ## Welcome to my profile, 
 # I'm Abdrahman Oladimeji
