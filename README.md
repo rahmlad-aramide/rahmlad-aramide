@@ -5,7 +5,7 @@
 ## Welcome to my profile, 
 # I'm Abdrahman Oladimeji
 
-I'm a front-end engineer, speaker, and community manager. I specialize in creating seamless, high-performance web and mobile applications. With a passion for modern JavaScript/Typescript frameworks, I build interactive experiences using React, Next.js, and React Native.
+I'm a front-end software developer, speaker, and community organizer. I specialize in creating seamless, high-performance web and mobile applications. With a passion for modern JavaScript/Typescript frameworks, I build interactive experiences using React, Next.js, and React Native.
 
 - 🔧 I've worked on several projects where I focus on enhancing user interfaces and improving frontend architectures.
 
@@ -17,7 +17,7 @@ I'm a front-end engineer, speaker, and community manager. I specialize in creati
 
 - 📫 How to reach me: [Send me DM on LinkedIn](https://linkedin.com/in/rahmlad) or a [Mail](mailto:abdrahmanoladimeji02@gmail.com)
 
-- 🌐 Check out my portfolio: [Portfolio](https://devrahmlad.tech)
+- 🌐 Check out my portfolio: [Portfolio](https://devrahmlad.vercel.app)
 
 Let's build something amazing together!
 
